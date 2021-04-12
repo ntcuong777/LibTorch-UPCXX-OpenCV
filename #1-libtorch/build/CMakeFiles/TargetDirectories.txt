@@ -1,0 +1,3 @@
+/home/hung/Documents/Practice-build-libtorch/#1-libtorch/build/CMakeFiles/rebuild_cache.dir
+/home/hung/Documents/Practice-build-libtorch/#1-libtorch/build/CMakeFiles/edit_cache.dir
+/home/hung/Documents/Practice-build-libtorch/#1-libtorch/build/CMakeFiles/example-app.dir

@@ -1,0 +1,5 @@
+# Compile
+upcxx -O -o hello_world hello_world.cpp
+
+# Run
+upcxx-run -n <NUM_PROCESSES> hello_world
