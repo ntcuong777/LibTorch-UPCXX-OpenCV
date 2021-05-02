@@ -10,7 +10,7 @@
 | CUDA-11.0 |[v1.7.1](https://download.pytorch.org/libtorch/cu110/libtorch-cxx11-abi-shared-with-deps-1.7.1%2Bcu110.zip)|
 | CUDA-11.1 |[v1.8.0](https://download.pytorch.org/libtorch/cu110/libtorch-cxx11-abi-shared-with-deps-1.8.0%2Bcu110.zip) ---- [v1.8.1](https://download.pytorch.org/libtorch/cu111/libtorch-cxx11-abi-shared-with-deps-1.8.1%2Bcu111.zip)|
 
-2. Unzip libtorch to `<libtorch-root-dir>`, mine is `~/libtorch`
+2. Unzip libtorch to `<libtorch-root-dir>`, mine is `~/Downloads/libtorch`
 3. Build OpenCV from source, instruction was updated [here](https://github.com/phithangcung/Installation-Notes/blob/main/Install_OpenCV4_with_CUDA.md). I tested with OpenCV-4.5.2 with contrib stuffs
 4. Setup UPC++ as following the instruction at  [here](https://bitbucket.org/berkeleylab/upcxx/wiki/INSTALL)
 
