@@ -1,0 +1,8 @@
+cd build \
+&& cmake -DCMAKE_PREFIX_PATH="~/Downloads/libtorch" -DCMAKE_CXX_COMPILER=upcxx -DCMAKE_CXX_FLAGS="-O " .. \
+&& cmake --build . --config Debug \
+&& upcxx-run -n 2 example-app \
+&& cd .. 
+
+
+
